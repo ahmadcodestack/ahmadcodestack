@@ -10,169 +10,201 @@ Building **scalable web platforms, intelligent automation tools, and powerful mo
 
 ---
 
-# 🧑‍💻 Who I Am
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:2C5364,100:00C9FF&text=Muhammad%20Ahmad&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20React%20Native%20%7C%20AI%20Automation&descAlignY=60"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=900&lines=MERN+Stack+Developer;Full+Stack+Web+Engineer;React+Native+Mobile+Developer;AI+Automation+Specialist;Web+Scraping+Expert"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=10B981&label=PROFILE+VIEWS"/>
+
+</div>
+
+---
+
+# 👨‍💻 Who I Am
 
 ```javascript
 const muhammadAhmad = {
   title: "Full Stack Developer",
-  location: "Faisalabad, Pakistan 🇵🇰",
-  timezone: "UTC +5",
+  location: "Pakistan 🇵🇰",
+  timezone: "UTC+5",
 
-  expertise: {
+  specialization: {
     primary: "MERN Stack Development",
     mobile: "React Native Applications",
-    specialty: "AI Integration & Automation"
+    automation: "AI Integration & Web Automation"
   },
 
-  technologies: {
-    frontend: ["React.js", "Next.js", "Tailwind CSS"],
-    backend: ["Node.js", "Express.js"],
-    database: ["MongoDB", "Firebase"],
-    automation: ["Puppeteer", "Web Scraping"],
-    mobile: ["React Native"]
+  techStack: {
+    frontend: ["React.js","Next.js","Tailwind CSS"],
+    backend: ["Node.js","Express.js"],
+    database: ["MongoDB","Firebase"],
+    mobile: ["React Native"],
+    automation: ["Puppeteer","Web Scraping","Automation Bots"]
   },
 
-  focus: "Building scalable and high-performance applications",
-  status: "Available for new projects"
+  philosophy: "Building scalable and high-performance digital products",
+  focus: "AI-powered applications, automation tools, and SaaS platforms"
 };
 ```
 
 ---
 
-# 🚀 Core Specializations
+# 🚀 Core Expertise
 
-## 🌐 MERN Stack Development
-
-**MongoDB • Express • React • Node**
-
-### What I Build
-
-✔ Full Stack Applications
-✔ SaaS Platforms
-✔ Admin Dashboards
-✔ Trading Platforms
-✔ REST APIs
-✔ Real-time systems
-
-### Advanced Features
-
-✔ JWT Authentication
-✔ Role-based access
-✔ WebSocket real-time systems
-✔ Payment gateway integration
-✔ Cloud deployments
-
----
-
-## 📱 Mobile Development
-
-**React Native • Cross Platform**
-
-### Apps I Build
-
-✔ E-commerce Apps
-✔ Business Apps
-✔ AI Chat Applications
-✔ Utility Apps
-✔ Social Platforms
-
-### Advanced Features
-
-✔ Push Notifications
-✔ Deep Linking
-✔ Real-time Sync
-✔ API Integrations
-
----
-
-## 🤖 AI Integration & Automation
-
-### AI Systems
-
-✔ AI Chatbots
-✔ AI Dashboards
-✔ Smart Automation Systems
-
-### Automation
-
-✔ Web Scraping
-✔ LinkedIn Automation
-✔ Puppeteer Bots
-✔ Data Extraction Systems
+| Expertise                       | Description                                         |
+| ------------------------------- | --------------------------------------------------- |
+| 🌐 **MERN Stack Development**   | Full-stack applications, dashboards, SaaS platforms |
+| 📱 **Mobile App Development**   | Cross-platform apps using React Native              |
+| 🤖 **AI Integration**           | AI chatbots, AI automation systems                  |
+| ⚡ **Web Scraping & Automation** | Puppeteer bots, automation scripts                  |
+| 🛒 **E-commerce Development**   | Shopify & custom MERN stores                        |
 
 ---
 
 # 🛠 Technology Ecosystem
 
-### MERN Stack
+### Frontend
 
-![Tech](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,redux,tailwind)
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css,javascript,typescript" />
 
----
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
 
 ### Mobile Development
 
-![Mobile](https://skillicons.dev/icons?i=react,firebase,typescript)
-
----
+<img src="https://skillicons.dev/icons?i=react,typescript" />
 
 ### DevOps & Tools
 
-![DevOps](https://skillicons.dev/icons?i=aws,docker,git,github)
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,aws,linux" />
+
+### Automation & AI
+
+<img src="https://skillicons.dev/icons?i=python" />
 
 ---
 
-### AI & Automation
+# 💼 Projects & Experience
 
-![Automation](https://skillicons.dev/icons?i=python)
+| Project Type           | Technologies     |
+| ---------------------- | ---------------- |
+| 🌐 Full Stack Web Apps | MERN Stack       |
+| 📊 Admin Dashboards    | React + APIs     |
+| 📱 Mobile Applications | React Native     |
+| 🤖 Automation Systems  | Puppeteer / Bots |
+| 📈 Trading Dashboards  | React + Charts   |
+| 🛒 E-commerce Stores   | Shopify / MERN   |
 
 ---
 
 # 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-### Most Used Languages
+# 🏆 GitHub Achievements
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=10"/>
+
+</div>
+
+---
+
+# 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+✔ AI powered SaaS applications
+✔ MERN stack platforms
+✔ Automation & scraping systems
+✔ React Native mobile apps
 
 ---
 
 # 🤝 Let's Work Together
 
-## I'm Available For
+### I’m Available For
 
-### 🌐 Full Stack Development
-
-• MERN Stack Applications
-• SaaS Platforms
-• API Development
-• Admin Dashboards
-
-### 📱 Mobile Development
-
-• React Native Apps
-• Cross Platform Solutions
-
-### 🤖 AI Automation
-
-• AI Chatbots
-• Automation Systems
-• Web Scraping Tools
+* 🌐 Full Stack Development
+* 📱 Mobile App Development
+* 🤖 AI Automation
+* ⚡ Web Scraping Solutions
 
 ---
 
 # 📬 Contact Me
 
-📧 Email
-💼 LinkedIn
-🌐 Portfolio
-💻 GitHub
+<div align="center">
+
+<a href="mailto:your@email.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
 
 ---
 
-⭐ If my work resonates with you, consider starring my repositories.
+<div align="center">
 
-🚀 Transforming ideas into powerful digital products.
+### ⭐ If you like my work, consider starring my repositories
+
+<br>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F2027,50:2C5364,100:00C9FF&section=footer"/>
+
+</div>
+
