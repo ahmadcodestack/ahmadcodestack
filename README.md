@@ -21,8 +21,8 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://ahmad.innovrah.com/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Ahmad-Code-Stack-10B981?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  <a href="https://ahmad.innovrah.com">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-AhmadCodeStack-10B981?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/ahmadcodestack/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -162,8 +162,9 @@ const muhammadAhmad = {
 
 <div align="center">
 
-![snake gif](https://github.com/ahmadcodestack/ahmadcodestack/blob/output/github-contribution-grid-snake.svg)
-
+<p align="center">
+  <img src="https://github.com/ahmadcodestack/ahmadcodestack/blob/output/github-contribution-grid-snake.svg" />
+</p>
 </div>
 
 ---
