@@ -7,7 +7,37 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=900&lines=MERN+Stack+Developer;Full+Stack+Web+Engineer;React+Native+Mobile+Developer;AI+Automation+Specialist;Web+Scraping+Expert"/>
 
 <br>
+<p align="center">
+  <img src="https://img.shields.io/badge/75%2B_Projects-Delivered-10B981?style=flat-square&labelColor=1F2937&logo=checkmarx&logoColor=white&logoWidth=20" height="28"/>
+  <img src="https://img.shields.io/badge/7%2B_Years-Experience-3B82F6?style=flat-square&labelColor=1F2937&logo=clockify&logoColor=white&logoWidth=20" height="28"/>
+  <img src="https://img.shields.io/badge/100%25-Client_Satisfaction-F59E0B?style=flat-square&labelColor=1F2937&logo=star&logoColor=white&logoWidth=20" height="28"/>
+  <img src="https://img.shields.io/badge/100K%2B-Active_Users-EF4444?style=flat-square&labelColor=1F2937&logo=users&logoColor=white&logoWidth=20" height="28"/>
+</p>
 
+<!-- Social Connect Bar -->
+<p align="center">
+  <a href="mailto:aftabahmadkhan.dev@gmail.com">
+    <img src="https://img.shields.io/badge/📧_aftabahmadkhan.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+<p align="center">
+  <a href="http://aftabahmadkhan.site">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-aftabahmadkhan.site-10B981?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/aftab-ahmad-khan">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/aftab-ahmad-khan-dev">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+</div>
+
+<br/>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
