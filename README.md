@@ -8,27 +8,24 @@
 
 <br>
 <p align="center">
-  <img src="https://img.shields.io/badge/75%2B_Projects-Delivered-10B981?style=flat-square&labelColor=1F2937&logo=checkmarx&logoColor=white&logoWidth=20" height="28"/>
-  <img src="https://img.shields.io/badge/7%2B_Years-Experience-3B82F6?style=flat-square&labelColor=1F2937&logo=clockify&logoColor=white&logoWidth=20" height="28"/>
+  <img src="https://img.shields.io/badge/40%2B_Projects-Delivered-10B981?style=flat-square&labelColor=1F2937&logo=checkmarx&logoColor=white&logoWidth=20" height="28"/>
+  <img src="https://img.shields.io/badge/3%2B_Years-Experience-3B82F6?style=flat-square&labelColor=1F2937&logo=clockify&logoColor=white&logoWidth=20" height="28"/>
   <img src="https://img.shields.io/badge/100%25-Client_Satisfaction-F59E0B?style=flat-square&labelColor=1F2937&logo=star&logoColor=white&logoWidth=20" height="28"/>
   <img src="https://img.shields.io/badge/100K%2B-Active_Users-EF4444?style=flat-square&labelColor=1F2937&logo=users&logoColor=white&logoWidth=20" height="28"/>
 </p>
 
 <!-- Social Connect Bar -->
 <p align="center">
-  <a href="mailto:aftabahmadkhan.dev@gmail.com">
-    <img src="https://img.shields.io/badge/📧_aftabahmadkhan.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:ahmaddeveloper17@gmail.com">
+    <img src="https://img.shields.io/badge/📧AhmadDeveloper17@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 <p align="center">
-  <a href="http://aftabahmadkhan.site">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-aftabahmadkhan.site-10B981?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  <a href="https://ahmad.innovrah.com/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Ahmad-Code-Stack-10B981?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://linkedin.com/in/aftab-ahmad-khan">
+  <a href="https://www.linkedin.com/in/ahmadcodestack/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/aftab-ahmad-khan-dev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
@@ -88,7 +85,7 @@ const muhammadAhmad = {
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css,javascript,typescript" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css,javascript,typescript,vite,gsap" />
 
 ### Backend
 
@@ -125,9 +122,9 @@ const muhammadAhmad = {
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ahmadcodestack&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadcodestack&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -145,7 +142,7 @@ const muhammadAhmad = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ahmadcodestack&theme=tokyonight&no-frame=true&margin-w=10"/>
 
 </div>
 
@@ -155,7 +152,7 @@ const muhammadAhmad = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadcodestack&theme=tokyo-night"/>
 
 </div>
 
@@ -165,7 +162,7 @@ const muhammadAhmad = {
 
 <div align="center">
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/ahmadcodestack/ahmadcodestack/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -195,16 +192,12 @@ const muhammadAhmad = {
 
 <div align="center">
 
-<a href="mailto:your@email.com">
+<a href="mailto:ahmaddeveloper17@email.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com">
+<a href="https://www.linkedin.com/in/ahmadcodestack/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
