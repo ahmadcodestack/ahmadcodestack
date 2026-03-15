@@ -1,17 +1,5 @@
 <div align="center">
 
-# 🚀 Muhammad Ahmad
-
-### Full Stack Developer • MERN Stack • AI Integration • React Native
-
-Building **scalable web platforms, intelligent automation tools, and powerful mobile applications.**
-
-</div>
-
----
-
-<div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:2C5364,100:00C9FF&text=Muhammad%20Ahmad&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20React%20Native%20%7C%20AI%20Automation&descAlignY=60"/>
 
 <br>
@@ -207,4 +195,3 @@ const muhammadAhmad = {
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F2027,50:2C5364,100:00C9FF&section=footer"/>
 
 </div>
-
