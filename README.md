@@ -158,17 +158,6 @@ const muhammadAhmad = {
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<p align="center">
-  <img src="https://github.com/ahmadcodestack/ahmadcodestack/blob/output/github-contribution-grid-snake.svg" />
-</p>
-</div>
-
----
-
 # 🎯 Current Focus
 
 ✔ AI powered SaaS applications
